@@ -36,3 +36,9 @@ $(document).ready(function () {     #To create
 
 });
 
+
+# Desktop view
+![picture](https://github.com/Tobisam-2000/Omnifood/blob/main/omni.jpg)
+
+# Mobile view
+![Picture](https://github.com/Tobisam-2000/Omnifood/blob/main/omni2.jpg)
